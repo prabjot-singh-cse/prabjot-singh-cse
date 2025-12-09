@@ -1,4 +1,4 @@
-![Prabjot Singh GitHub Banner](https://github.com/prabjot-singh-cse/prabjot-singh-cse/blob/main/Screenshot%202025-12-09%20192531.png)
+![Prabjot Singh GitHub Banner](https://github.com/prabjot-singh-cse/prabjot-singh-cse/blob/main/Screenshot%202025-12-09%20193816.png)
 
 ---
 # 👋 Hi, I'm Prabjot Singh  
