@@ -50,26 +50,27 @@
 ## 🏆 Coding Profiles & Stats
 
 <p align="center">
+
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/prabjot-singh-cse/">
-    <img src="https://leetcard.jacoblin.cool/prabjot-singh-cse?theme=dark&font=Karma&ext=contest" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/prabjot-singh-cse?theme=dark&font=Karma&ext=contest" width="45%" />
   </a>
-  
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/prabjot58995">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=practice&username=prabjot58995&badge=0" width="48%" />
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Dictator111">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dictator111&theme=tokyonight" width="45%" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Dictator111">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dictator111&theme=tokyonight" width="48%" />
+  <!-- HackerRank Badge -->
+  <a href="https://www.hackerrank.com/profile/prabjot58995">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/prabjot-singh-7812142b9/">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="48%" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
