@@ -57,10 +57,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prabjot-singh-cse&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabjot-singh-cse&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabjot-singh-cse&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabjot-singh-cse&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabjot-singh-cse&layout=compact&theme=tokyonight" width="48%"/>
 </p>
+
 
 ---
 
