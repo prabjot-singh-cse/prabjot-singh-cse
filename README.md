@@ -47,17 +47,32 @@
 
 ---
 
-## 🏆 Coding Profiles
-<p align="left">
-<a href="https://www.hackerrank.com/profile/prabjot58995"><img src="https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-<a href="https://codeforces.com/profile/Dictator111"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/prabjot-singh-7812142b9/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## 🏆 Coding Profiles & Stats
 
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/prabjot-singh-cse/">
+    <img src="https://leetcard.jacoblin.cool/prabjot-singh-cse?theme=dark&font=Karma&ext=contest" width="48%" />
+  </a>
+  
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/prabjot58995">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=practice&username=prabjot58995&badge=0" width="48%" />
+  </a>
 </p>
 
 <p align="center">
- <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=contest" />
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Dictator111">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dictator111&theme=tokyonight" width="48%" />
+  </a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/prabjot-singh-7812142b9/">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="48%" />
+  </a>
 </p>
+
 
 ---
 
