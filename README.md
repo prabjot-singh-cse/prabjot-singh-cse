@@ -1,50 +1,75 @@
-![Prabjot Singh GitHub Banner](https://github.com/prabjot-singh-cse/prabjot-singh-cse/blob/main/Screenshot%202025-12-09%20193816.png)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/prabjot-singh-cse/prabjot-singh-cse/blob/main/Screenshot%202025-12-09%20193816.png" width="100%" />
+</p>
 
----
-# 👋 Hi, I'm Prabjot Singh  
+<h1 align="center">👋 Hey, I'm Prabjot Singh</h1>
 
-🎓 **B.Tech CSE (Core)** | *VIT Chennai (2025–2029)*  
-💻 **Python Programming Intern @ HexSoftwares**  
-🧠 Learning **DSA in C++** | Exploring **AI, ML & Automation**  
+<p align="center">
+  <b>B.Tech CSE @ VIT Chennai (2025–2029)</b><br>
+  <b>Python Programming Intern @ HexSoftwares</b><br>
+  🧠 DSA in C++ | 🐍 Python Automation | 🚀 Aspiring AI Engineer
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a first-year Computer Science student passionate about programming, problem-solving, and creating real projects that actually work.  
-I love learning new technologies and building small tools in Python.
+- 🌱 First-year Computer Science student passionate about building tech the **right** way  
+- 💡 Automating boring tasks using Python  
+- 🎯 Aiming for product-based companies with strong **DSA + Development**  
+- 🔍 Exploring **AI, ML, Data Automation & Computer Vision**
 
 ---
 
-## 🧩 What I'm Working On
-- Strengthening **DSA with C++**  
-- Building beginner-to-intermediate Python projects  
-- Improving coding skills on **HackerRank**  
-- Creating a strong GitHub project portfolio  
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode" />
+</p>
 
 ---
 
-## 🛠 Skills
-- **Languages:** Python, C, C++  
-- **Core:** DSA, OOP, Problem Solving  
-- **Tools:** Git & GitHub, VS Code  
-- **Interests:** AI, ML, Automation, Computer Vision
+## 📈 Current Focus
+- 📌 DSA — Solving problems daily  
+- 🏗 Python Projects — Publishing regularly  
+- 🧪 Learning AI & ML fundamentals  
+- 🌍 Growing LinkedIn & GitHub presence
 
 ---
 
-## 📈 Coding Profiles
-- 💡 **HackerRank:** https://www.hackerrank.com/profile/prabjot58995  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/prabjot-singh-7812142b9  
+## 🧩 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔍 Book Store Web Scraper | Automates book data collection | Python, BS4, Pandas |
+| 🧠 DSA Solutions Repo | C++ DSA coding practice | C++, STL |
+
+➡ More projects coming soon... **stay tuned!** 🚀
 
 ---
 
-## 📚 Projects (More Coming Soon!)
-- Python Automation Scripts  
-- C++ DSA Problem Solutions  
-- Beginner AI & CV Projects  
-- Learning-based project notebooks  
+## 🏆 Coding Profiles
+<p align="left">
+<a href="https://www.hackerrank.com/profile/prabjot58995"><img src="https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://codeforces.com/profile/Dictator111"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prabjot-singh-7812142b9/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 📬 Connect With Me
-If you'd like to collaborate on projects or discuss programming, feel free to reach out!
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prabjot-singh-cse&show_icons=true&theme=tokyonight" height="160px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabjot-singh-cse&theme=tokyonight" height="160px" />
+</p>
 
+---
+
+## 👇 Want to Collaborate?
+📬 Email → **prabjot58995@gmail.com**  
+Let’s build something meaningful together! 🤝
+
+---
+
+<p align="center">
+  ⭐ Don't forget to star my repositories if you find them useful!
+</p>
