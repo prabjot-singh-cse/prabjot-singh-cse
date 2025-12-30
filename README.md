@@ -52,6 +52,11 @@
 <a href="https://www.hackerrank.com/profile/prabjot58995"><img src="https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 <a href="https://codeforces.com/profile/Dictator111"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/prabjot-singh-7812142b9/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</p>
+
+<p align="center">
+ <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
