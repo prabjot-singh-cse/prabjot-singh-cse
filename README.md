@@ -102,6 +102,13 @@ Let’s build something meaningful together! 🤝
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabjot-singh-cse/prabjot-singh-cse/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
 <p align="center">
   ⭐ Don't forget to star my repositories if you find them useful!
 </p>
