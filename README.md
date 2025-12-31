@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/prabjot-singh-cse/prabjot-singh-cse/blob/main/Screenshot%202025-12-09%20193816.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/prabjot-singh-cse/prabjot-singh-cse/main/banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">👋 Hey, I'm Prabjot Singh</h1>
 
