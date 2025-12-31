@@ -47,30 +47,33 @@
 
 ---
 
-## 🏆 Coding Profiles & Stats
+## 📊 Stats & Competitive Programming
 
 <p align="center">
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/prabjot-singh-cse/">
-    <img src="https://leetcard.jacoblin.cool/prabjot-singh-cse?theme=dark&font=Karma&ext=contest" width="45%" />
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/Dictator111">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dictator111&theme=tokyonight" width="45%" />
-  </a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prabjot-singh-cse&show_icons=true&theme=tokyonight&hide_border=true" width="30%" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabjot-singh-cse&theme=tokyonight&hide_border=true" width="30%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabjot-singh-cse&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 
 <p align="center">
-  <!-- HackerRank Badge -->
-  <a href="https://www.hackerrank.com/profile/prabjot58995">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/prabjot-singh-cse/">
+    <img src="https://leetcard.jacoblin.cool/prabjot-singh-cse?theme=dark&font=Karma&ext=contest" width="30%"/>
+  </a>
+  
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Dictator111">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Dictator111&theme=tokyonight" width="30%"/>
   </a>
 
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/prabjot-singh-7812142b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/prabjot58995">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" width="30%"/>
   </a>
 </p>
 
