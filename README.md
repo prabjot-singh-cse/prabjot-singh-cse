@@ -15,10 +15,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 First-year Computer Science student passionate about building tech the **right** way  
-- 💡 Automating boring tasks using Python  
-- 🎯 Aiming for product-based companies with strong **DSA + Development**  
-- 🔍 Exploring **AI, ML, Data Automation & Computer Vision**
+- 🌱 Currently learning: **C++ DSA · OOP · AI Basics**
+- 🛠 Love building: **Automations, Web Scrapers, Mini AI Tools**
+- 🎯 Mission: Improve daily as a developer & problem solver
+- 🌍 Open for: Collaboration & Internship opportunities
 
 ---
 
@@ -41,10 +41,11 @@
 ## 🧩 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔍 Book Store Web Scraper | Automates book data collection | Python, BS4, Pandas |
-| 🧠 DSA Solutions Repo | C++ DSA coding practice | C++, STL |
+| 📚 Book Store Web Scraper | Automates book data collection | Python · BS4 · Pandas |
+| 🎯 DSA Solutions Repo | C++ DSA practice | C++ · STL |
+| 🤖 Automation Tools | Daily-life automation scripts | Python |
 
-➡ More projects coming soon... **stay tuned!** 🚀
+📌 *More projects coming soon… stay tuned!*
 
 ---
 
